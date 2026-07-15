@@ -22,7 +22,7 @@ Before you begin setting up your HP printer on Windows 11, ensure you have the f
 .. note::
    Windows 11 supports both wired and wireless printer connections. Choose the method that best suits your setup and environment.
 
-Method 1: Automatic Setup via Windows 11 (Recommended)
+Method 1: Automatic Setup via Windows 11 
 =======================================================
 
 Windows 11 can automatically detect and install most HP printers without requiring additional software.
@@ -41,7 +41,7 @@ For USB printers:
 Step 2: Add the Printer in Windows 11
 -------------------------------------
 
-1. Click the **Start** button and select **Settings** (the gear icon).
+1. Click the **Start** button and select.
 2. Go to **Bluetooth & devices** from the left menu.
 3. Select **Printers & scanners**.
 4. Click **Add device** next to "Add a printer or scanner."
@@ -50,7 +50,7 @@ Step 2: Add the Printer in Windows 11
 7. Click **Add device**.
 8. Windows 11 will automatically download and install the necessary drivers.
 9. Wait for the installation to complete.
-10. Your printer will appear in the printers list as **Ready** or **Online**.
+10. Your printer will appear in the printers list.
 
 Step 3: Print a Test Page
 -------------------------
